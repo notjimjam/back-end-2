@@ -1,6 +1,25 @@
 {
   "dependencies": {
+    "axios": "^0.26.0",
     "cors": "^2.8.5",
     "express": "^4.17.3"
-  }
+  },
+  "name": "back-end-2",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notjimjam/back-end-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notjimjam/back-end-2/issues"
+  },
+  "homepage": "https://github.com/notjimjam/back-end-2#readme",
+  "description": ""
 }
